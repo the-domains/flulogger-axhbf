@@ -1,0 +1,14 @@
+layout_spectrum: 0.867059892276302
+typography_spectrum: 0.9271085772197694
+color:
+  brandStrength: 0.7344399585854262
+  lightness: 0.13676823256537318
+  saturation: 0.0664752721786499
+  rhythmicContrast: 0.4427810355555266
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: FluLogger
