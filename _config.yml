@@ -6,9 +6,9 @@ color:
   saturation: 0.0664752721786499
   rhythmicContrast: 0.4427810355555266
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: FluLogger
